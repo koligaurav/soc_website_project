@@ -1,0 +1,37 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "name": "Introduction to Python",
+        "title": "Learn the basics of Python programming language.",
+        "price": 0,
+        "category": "Free",
+        "image":"image.png"
+       },
+       {
+        "id": 2,
+        "name": "JavaScript for Beginners",
+        "title": "A comprehensive guide to JavaScript for beginners.",
+        "price": 20,
+        "category": "free",
+        "image": "javascript.png"
+      },
+      {
+        "id": 3,
+        "name": "HTML & CSS Basics",
+        "title": "An introductory course on HTML and CSS for web development.",
+        "price": 15,
+        "category": "free",
+        "image": "htmlcss.png"
+      },
+      {
+        "id": 4,
+        "name": "Data Structures and Algorithms",
+        "title": "Understand the fundamentals of data structures and algorithms.",
+        "price": 30,
+        "category": "Paid",
+        "image": "dsa.png"
+      }
+    ]
+  }
+  
